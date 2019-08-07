@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Josh Neves"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Josh Neves"
+description              : "Full Stack Web Developer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,13 +107,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Josh Neves"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Full Stack Web Developer"
+  location         : "Washington, DC"
   email            :
   links:
-    - label: "Email"
+    - label: "Neves.joshua@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
@@ -294,3 +294,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# _pages
+- scope:
+  path: ""
+  type: pages
+  values:
+    layout: single
+    author_profile: true
