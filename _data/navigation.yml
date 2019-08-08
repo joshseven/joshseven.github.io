@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Full Stack"
-     url: /full-stack
+     url: /full-stack/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
