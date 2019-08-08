@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Josh Neves"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/josh.jpeg 
   bio              : "Full Stack Web Developer"
   location         : "Washington, DC"
   email            :
