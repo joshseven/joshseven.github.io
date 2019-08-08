@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: /full-stack/
-title: "Full stack Posts by Tags"
+title: "Full Stack Posts by Tags"
 author_profile: true
 header:
-    images: "images/water.jpeg"
+    image: "images/water.jpeg"
 ---
