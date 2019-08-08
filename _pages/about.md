@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
- image: "/images/maps.jpeg"
+ image: "/images/road.jpeg"
 ---
 
 I'm a full stack web developer.
