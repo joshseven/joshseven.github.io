@@ -4,5 +4,5 @@ permalink: /full-stack/
 title: "Full Stack Posts by Tags"
 author_profile: true
 header:
- image: "images/water.jpg"
+ image:"images/water.jpg"
 ---
